@@ -1,0 +1,65 @@
+{
+    "id": "Aveline_First_Meeting",
+    "lines": [
+        {
+            "pause": 5,
+            "spacing": true,
+            "speaker": "????",
+            "text": "Hey! Can I see your ID."
+        },
+        {
+            "pause": 7,
+            "spacing": true,
+            "speaker": "????",
+            "text": "Ah, Welcome to the dungeon {playerName}."
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "Thorten",
+            "text": "the names Thorten! I am the keeper of this here dungeon."
+        },
+        {
+            "pause": 6,
+            "spacing": true,
+            "speaker": "You",
+            "text": "Um could you please tell me more about the dungeon."
+        },
+        {
+            "pause": 4,
+            "spacing": true,
+            "speaker": "You",
+            "text": "you see, I am new and never been in a dungeon before."
+        },
+        {
+            "pause": 4,
+            "spacing": true,
+            "speaker": "You",
+            "text": "Um yes, I just arrived to Ignisgate this morning."
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "Thorten",
+            "text": "AH a newbie are ya? Well yer came to the right place, as the keeper I know all there is to know about this dungeon!"
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "Thorten",
+            "text": "Basically, ya go in there, kill all the monsters, take thier loot, sell thier loot, and then ya repeat."
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "Thorten",
+            "text": "There be rest sites every 3 floors, use it to regain mana and health. You can progress a floor by killing the floor boss, she'll come out after 5 combats."
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "Thorten",
+            "text": "And thats about it. Good luck out there kiddo."
+        }
+    ]
+}

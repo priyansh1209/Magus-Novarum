@@ -1,0 +1,11 @@
+{
+    "dialogue": {
+        "dungeonScene1": false,
+        "wizardGuildScene1": false
+    },
+    "player": {
+        "homeUnlocked": false,
+        "name": "Princh",
+        "wizardID": true
+    }
+}

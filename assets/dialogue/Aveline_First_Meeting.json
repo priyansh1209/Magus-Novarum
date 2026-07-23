@@ -1,0 +1,58 @@
+{
+    "id": "Aveline_First_Meeting",
+    "lines": [
+        {
+            "pause": 10,
+            "spacing": true,
+            "text": "You arrive at the Wizards' Guild for the first time, its towering spires adorned with gleaming gold accents that shimmer beneath the harsh midday sun. As you step through the grand entrance, the muffled roar of excited conversation greets you, growing louder with every step toward the towering doors ahead...."
+        },
+        {
+            "pause": 5,
+            "spacing": true,
+            "speaker": "????",
+            "text": "hello sir! Welcome to the wizard guild of the great stronghold city of Ignisgate."
+        },
+        {
+            "pause": 7,
+            "spacing": true,
+            "style": "italic",
+            "text": "you look around, too distracted by the majestic reception area of the guild to hear the stunted receptionist"
+        },
+        {
+            "pause": 7,
+            "spacing": true,
+            "speaker": "Aveline",
+            "text": "HELLO? SIR? ..."
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "You",
+            "text": "...oh. Sorry, I didn't hear you."
+        },
+        {
+            "pause": 6,
+            "spacing": true,
+            "speaker": "Aveline",
+            "text": "Thats ok! My name is Aveline, Aveline Thorne. I am the repectionist at the wizards guild here!"
+        },
+        {
+            "pause": 4,
+            "spacing": true,
+            "speaker": "Aveline",
+            "text": "I havent seen you around here, did you just arrive in town?"
+        },
+        {
+            "pause": 4,
+            "spacing": true,
+            "speaker": "You",
+            "text": "Um yes, I just arrived to Ignisgate this morning."
+        },
+        {
+            "pause": 3,
+            "spacing": true,
+            "speaker": "Aveline",
+            "text": "Ah, well welcome to our wonderfull city."
+        }
+    ]
+}
